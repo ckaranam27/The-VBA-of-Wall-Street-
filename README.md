@@ -24,12 +24,9 @@
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
+* The resuhttpslt should look as follows.
 
-
-<img src="https://raw.githubusercontent.com/ckaranam27/The-VBA-of-Wall-Street-/master/Screen%20Shot%202018-04-27%20at%2010.53.50%20PM.png">
-
-
+<img src="https://raw.githubusercontent.com/ckaranam27/The-VBA-of-Wall-Street-/master/Screen%20Shot%202018-04-27%20at%209.34.26%20PM.png">
 
 
 ### Hard
@@ -40,6 +37,5 @@
 
 * Solution will look as follows.
  
-(Images/The-VBA-of-Wall-Street-/Screen Shot 2018-04-27 at 10.53.50 PM.png)
-
+<img src="https://raw.githubusercontent.com/ckaranam27/The-VBA-of-Wall-Street-/master/Screen%20Shot%202018-04-27%20at%2010.53.50%20PM.png">
 
