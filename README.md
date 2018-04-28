@@ -8,7 +8,7 @@
 
 * Your result should look as follows.
 
-[<img src="https://user-images.githubusercontent.com/37163310/39396838-66d8d3f2-4abb-11e8-80ed-d82410919e69.png">]
+<img src="https://user-images.githubusercontent.com/37163310/39396838-66d8d3f2-4abb-11e8-80ed-d82410919e69.png">
 
 ### Moderate
 
