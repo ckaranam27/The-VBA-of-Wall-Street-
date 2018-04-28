@@ -25,8 +25,12 @@
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
 * The result should look as follows.
- 
-![moderate_solution]
+
+
+<img src="https://raw.githubusercontent.com/ckaranam27/The-VBA-of-Wall-Street-/master/Screen%20Shot%202018-04-27%20at%2010.53.50%20PM.png">
+
+
+
 
 ### Hard
 
