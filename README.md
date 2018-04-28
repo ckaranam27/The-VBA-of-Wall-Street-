@@ -36,5 +36,6 @@
 
 * Solution will look as follows.
  
-![hard_solution](Images/hard_solution.png)
+(Images/The-VBA-of-Wall-Street-/Screen Shot 2018-04-27 at 10.53.50 PM.png)
+
 
